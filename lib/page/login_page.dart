@@ -101,7 +101,7 @@ class LoginPage extends StatelessWidget {
                               },
                               child: const Center(
                                 child: Text(
-                                  "Masuk",
+                                  "Login",
                                   style: TextStyle(
                                     fontSize: 25,
                                     fontWeight: FontWeight.w700,

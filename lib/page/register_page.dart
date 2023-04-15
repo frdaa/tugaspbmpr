@@ -114,15 +114,10 @@ class RegisterPage extends State<Register> {
                                 child: Text(
                                   "Sign up",
                                   style: TextStyle(
-                                      fontSize: 25,
-                                      fontWeight: FontWeight.w400,
-                                      color: Color(0xffffffff),
-                                      shadows: <Shadow>[
-                                        Shadow(
-                                            color: Color.fromARGB(64, 0, 0, 0),
-                                            offset: Offset(0, 4),
-                                            blurRadius: 4)
-                                      ]),
+                                    fontSize: 25,
+                                    fontWeight: FontWeight.w700,
+                                    color: Colors.white,
+                                  ),
                                 ),
                               ),
                             ),
